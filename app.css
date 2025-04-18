@@ -1,0 +1,22 @@
+.a{
+    height: 300px;
+    width: 500px;
+border: 2px solid #c7c9c8;
+}
+.b{
+    height: 100px;
+    width: 500px;
+background-color:#ed1b24;
+padding-left:auto;
+
+}
+.c{
+    height: 100px;
+    width: 500px;
+    color: #ffffff;
+}
+.d{
+height: 100px;
+width: 500px;
+background-color: #0065b3;
+}
